@@ -9,8 +9,6 @@
   Hi, I'm Harshvardhan Sharma, Electronics and Communication engineer from Rajasthan
   <br>
   <br>
-  🎓 I am currently a final year student studying in Nirma University,Ahmedabad
-  <br>
   💻 I love writing code and learn anythings about it
   <br>
   
