@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Sharma</h1>
 <h3 align="center">I am a Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on reusable ui json lib
+- 🔭 I’m currently working on reusable ui json lib and text to sql agent
 
 - 🌱 I’m currently learning **Typescript,Node**
 
