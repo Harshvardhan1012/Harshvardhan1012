@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on reusable ui json lib and text to sql agent
 
-- 🌱 I’m currently learning **Typescript,Node**
+- 🌱 I’m currently learning about langchain and langgraph
 
 - 💬 Ask me about **React,Node,databases**
 
